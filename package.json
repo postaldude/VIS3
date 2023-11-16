@@ -47,7 +47,7 @@
   },
   "devDependencies": {
     "gh-pages": "^5.0.0",
-    "json-server": "^0.17.3",
+    "json-server": "^0.17.4",
     "node-fs": "^0.1.7",
     "shx": "^0.3.4"
   }
